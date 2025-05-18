@@ -1,4 +1,4 @@
-# Exp - 6 STUDENT EXAM REGISTRATION SYSTEM
+# Exp - 6 STUDENT ONLINE EXAM REGISTRATION SYSTEM
 
 # AIM:
 To develop a project Student Information System using star UML tools.
